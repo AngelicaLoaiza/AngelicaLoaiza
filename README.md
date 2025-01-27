@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Angélica!
+**Tecnóloga en Gestión de Procesos Industriales | Analista de Datos**
 
-<!--
-**AngelicaLoaiza/AngelicaLoaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me especializo en el análisis de datos y la automatización de procesos. Aquí encontrarás mis proyectos destacados.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🌱 Actualmente aprendiendo **Power BI**, **SQL** y **Python**.
+- 🎯 Apasionada por el crecimiento personal y el aprendizaje continuo.
+- 📩 **Contáctame**: [angelicaloaiza15@gmail.com](mailto:angelicaloaiza15@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Conéctate conmigo
+- 🌐 [LinkedIn](https://www.linkedin.com/in/angelica-loaiza-da)
+- 🖥️ [GitHub](https://github.com/AngelicaLoaiza)
+
+## 📂 Proyectos Destacados
+### 📊 [Moneyball NBA: Valor y Eficiencia](https://github.com/AngelicaLoaiza/Moneyball-NBA-Valor-y-Eficiencia)
+Un análisis detallado del desempeño de jugadores de la NBA enfocado en maximizar el valor de las inversiones de los dueños de equipos.
+
+📌 **Objetivo**: Garantizar que los salarios pagados estén alineados con el rendimiento de los jugadores, algo crucial en un mercado competitivo. Las decisiones salariales afectan directamente el éxito deportivo y financiero de los equipos.
